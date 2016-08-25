@@ -1,5 +1,6 @@
 #!/bin/bash
-
+echo "HEJ!"
+echo "HEJ!"
 testsPassed=0
 function testString {
     if [ ! -f $2 ]; then
